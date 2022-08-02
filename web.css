@@ -1,0 +1,56 @@
+input.calc-btn-etc {
+  border: 1px solid black;
+  width: 85px;
+  height: 85px;
+  text-align: center;
+}
+
+input.calc-btn-number {
+  width: 85px;
+  height: 85px;
+  margin-inline: 15px;
+}
+
+div.calc-btn-number-div {
+  margin-block: 50px;
+  margin-inline: 15px;
+}
+
+#calcBtnAll {
+  border: 1px solid black;
+  width: 700px;
+  height: 700px;
+  margin: auto;
+  transform: translateY(2.4%);
+}
+
+#calcBtnEtc {
+  display: flex;
+  justify-content: center;
+}
+
+#title {
+  text-align: center;
+}
+
+#calc {
+  margin: auto;
+  border: 2px solid black;
+  width: 850px;
+  height: 850px;
+}
+
+#calcScreen {
+  border: 1px solid black;
+  width: 850px;
+  height: 100px;
+  text-align: center;
+}
+
+#calcBtnNumber {
+  display: flex;
+  align-content: space-around;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
