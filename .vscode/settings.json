@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "editor.tabSize": 2,
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "notebook.outputFontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "markdown.preview.fontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "debug.console.fontSize": 15,
+  "debug.console.fontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "editor.inlayHints.fontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "editor.codeLensFontFamily": "'Source Code Variable', 'Source Code Pro'",
+  "scm.inputFontSize": 15
+}
