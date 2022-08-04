@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var calcScreen = document.getElementById("calcScreen");
 
 var calcBtnNumber1 = document.getElementById("calcBtnNumber1");
@@ -71,3 +72,20 @@ window.addEventListener("load", () => {
 </html>
 `);
 });
+=======
+function clickBtn() {
+  var calcScreen = document.getElementById("calcScreen");
+
+  var calcBtnNumber1 = document.getElementById("calcBtnNumber1");
+  var calcBtnNumber2 = document.getElementById("calcBtnNumber2");
+  var calcBtnNumber3 = document.getElementById("calcBtnNumber3");
+  var calcBtnNumber4 = document.getElementById("calcBtnNumber4");
+  var calcBtnNumber5 = document.getElementById("calcBtnNumber5");
+  var calcBtnNumber6 = document.getElementById("calcBtnNumber6");
+  var calcBtnNumber7 = document.getElementById("calcBtnNumber7");
+  var calcBtnNumber8 = document.getElementById("calcBtnNumber8");
+  var calcBtnNumber9 = document.getElementById("calcBtnNumber9");
+
+  calcScreen.innerText = calcBtnNumber1.value;
+}
+>>>>>>> 3efc102aceaf2b87835a4e4f0a318577ef55607e
